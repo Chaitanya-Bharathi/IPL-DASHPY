@@ -1,38 +1,44 @@
 # IPL-DASHPY 🏏📊
 
-A Python-based dashboard for IPL data visualization and analysis. This project helps users explore IPL statistics interactively.
+A Python-based data analysis project for IPL statistics using Jupyter Notebook.
 
 ## Features ✨
-✅ Data visualization of IPL matches and players  
-✅ Interactive charts and graphs  
-✅ Team and player performance analysis  
-✅ Built using **Python, Pandas, Matplotlib, Plotly, Dash**  
+✅ Data analysis of IPL matches and players  
+✅ Interactive visualizations using Matplotlib  
+✅ Team and player performance insights  
+✅ Built using **Python, Pandas, Matplotlib**  
 
-## Installation 🛠
-1. Clone the repository:  
+## Installation 🫠
+
+1. **Download the Project (Clone the Repository)**  
    ```bash
    git clone https://github.com/Chaitanya-Bharathi/IPL-DASHPY.git
    cd IPL-DASHPY
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the dashboard:  
-   ```bash
-   python app.py
-   ```
+   ```  
+
+2. **Install Required Libraries**  
+   - Your project uses **Pandas, Matplotlib, and Jupyter Notebook**. Install them using:  
+     ```bash
+     pip install pandas matplotlib jupyter
+     ```  
+
+3. **Run the Jupyter Notebook**  
+   - Start Jupyter Notebook by running:  
+     ```bash
+     jupyter notebook
+     ```  
+   - Open **`ipl dashpy.ipynb`** in your browser and run the cells to analyze IPL data!  
 
 ## Technologies Used 🖥️
 - **Python** 🐍  
-- **Dash & Plotly** 📈  
-- **Pandas** 🗃  
+- **Jupyter Notebook** 📓  
+- **Pandas** 💃  
 - **Matplotlib** 🎨  
 
 ## Usage 📌
-- View IPL team performance over seasons  
+- View IPL team performance trends  
 - Analyze player statistics  
-- Explore match outcomes with interactive graphs  
+- Generate graphs and insights from IPL match data  
 
 ## Contributing 🤝
 Feel free to fork the repo, create a branch, and submit a pull request!  
