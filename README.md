@@ -37,5 +37,4 @@ A Python-based dashboard for IPL data visualization and analysis. This project h
 ## Contributing 🤝
 Feel free to fork the repo, create a branch, and submit a pull request!  
 
-## License 📜
-MIT License
+
