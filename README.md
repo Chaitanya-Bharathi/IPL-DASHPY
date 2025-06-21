@@ -19,7 +19,7 @@ git clone https://github.com/Chaitanya-Bharathi/IPL-DASHPY.git
 cd IPL-DASHPY
 ```
 
-### Step 2: Set Up a Virtual Environment (Optional but Recommended)
+### Step 2: Set Up a Virtual Environment 
 Create and activate a virtual environment:
 ```bash
 python -m venv venv
